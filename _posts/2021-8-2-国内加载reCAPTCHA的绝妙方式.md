@@ -1,5 +1,5 @@
 ---
-title: 在国内加载reCAPTCHA的绝妙方式
+title: 国内加载reCAPTCHA的绝妙方式
 author: 千里扯淡
 layout: post
 ---
