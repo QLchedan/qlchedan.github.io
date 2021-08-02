@@ -6,7 +6,7 @@ layout: post
 >众所周知，谷歌的reCAPTCHA验证码在国内是无法正常加载的。  
 >同样众所周知的是，其不能加载的原因是因为使用它需要加载 https://www.google.com/recaptcha/api.js 这个文件。然后！ google.com 在国内是无法正常访问的，然后整个reCAPTCHA都没法用了(；´д｀)ゞ  
 >不过， https://recaptcha.net/recaptcha/api.js 可以起到同样的功能，并且 recaptcha.net 是可以正常在国内访问到的ヽ(￣▽￣)ﾉ  
->所以，我们只要想办法加载*https://recaptcha.net/recaptcha/api.js*就行了。  
+>所以，我们只要想办法加载https://recaptcha.net/recaptcha/api.js就行了。  
 
 --------------
 --------------
